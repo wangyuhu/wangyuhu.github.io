@@ -23,3 +23,9 @@ permalink: /about/
 ### Contact me
 
 [wangyuhu2019@ia.ac.cn](mailto:wangyuhu2019@ia.ac.cn)
+
+### Contact me in another way, thanks!🤑
+
+![](/images/wechat.JPG)
+
+![](/images/zhifubao.JPG)
