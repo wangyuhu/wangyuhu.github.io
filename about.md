@@ -26,7 +26,7 @@ permalink: /about/
 
 ### Contact me in another way, thanks!🤑
 
-<center class="half">
+<figure class="half">
     <img src="/images/wechat.JPG" width="200"/>
     <img src="/images/zhifubao.JPG" width="200"/>
-</center>
+</figure>
