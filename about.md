@@ -37,6 +37,6 @@ permalink: /about/
 ### Contact me in another way, thanks!🤑
 
 <figure class="half">
-    <img src="/images/wechat.JPG" width="150"/>
-    <img src="/images/zhifubao.JPG" width="150"/>
+    <img src="/images/wechat.JPG" width="200"/>
+    <img src="/images/zhifubao.JPG" width="200"/>
 </figure>
