@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>黑客帝国效果</title>
+</head>
+ 
+<body>
+<canvas id="canvas"></canvas>
+<style type="text/css">
+    body{margin: 0; padding: 0; overflow: hidden;}
+</style>
+<script type="text/javascript">
+    var canvas = document.getElementById('canvas');
+    var ctx = canvas.getContext('2d');
+ 
+ 
+    // canvas.height = window.innerHeight;
+    // canvas.width = window.innerWidth;
+    
+    canvas.height = 900;
+    canvas.width = 1440;
+    var texts = '0123456789abcdefghijklmnopqrstuvwxyz'.split('');
+
+ 	var fontcolor = []
+ 	fontcolor[0] = '#FF0000';
+ 	fontcolor[1] = '#FFA500';
+ 	fontcolor[2] = '#0F0';
+ 	fontcolor[3] = '#FFFF00';
+ 	fontcolor[4] = '#00FF00';
+ 	fontcolor[5] = '#66CDAA';
+ 	fontcolor[6] = '#1E90FF';
+ 	fontcolor[7] = '#9932CC';
+ 	fontcolor[8] = '#00FFFF';
+ 	fontcolor[9] = '#FFFF00';
+
+    var fontSize = 16;
+    var columns = canvas.width/fontSize;
+    // 用于计算输出文字时坐标，所以长度即为列数
+    var drops = [];
+    //初始值
+    for(var x = 0; x < columns; x++){
+        drops[x] = 1;
+    }
+ 
+    function draw(){
+        //让背景逐渐由透明到不透明
+        ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        //文字颜色
+        ctx.fillStyle = '#0F0';
+        ctx.font = fontSize + 'px arial';
+        //逐行输出文字
+        for(var i = 0; i < drops.length; i++){
+        	//ctx.fillStyle = fontcolor[Math.floor(Math.random()*10)];
+            var text = texts[Math.floor(Math.random()*texts.length)];
+            ctx.fillText(text, i*fontSize, drops[i]*fontSize);
+            if(drops[i]*fontSize > canvas.height || Math.random() > 0.95){
+                drops[i] = 0;
+            }
+ 
+            drops[i]++;
+        }
+    }
+ 
+    setInterval(draw, 33);
+</script>
+</body>
