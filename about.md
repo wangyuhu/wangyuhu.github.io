@@ -34,9 +34,3 @@ permalink: /about/
 
 [wangyuhu2019@ia.ac.cn](mailto:wangyuhu2019@ia.ac.cn)
 
-### Contact me in another way, thanks!🤑
-
-<figure class="half">
-    <img src="/images/wechat.JPG" width="200"/>
-    <img src="/images/zhifubao.JPG" width="200"/>
-</figure>
