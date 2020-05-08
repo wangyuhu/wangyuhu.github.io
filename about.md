@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-王玉虎
-
 本科：西安交通大学(XJTU)
 
 直博：中国科学院大学(UCAS)，自动化研究所(CASIA)
