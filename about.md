@@ -24,7 +24,7 @@ permalink: /about/
 
 课余喜欢吉他、篮球、羽毛球、健身，刚学会游泳，hhh
 
-有钱买机车，没钱骑单车。[点赞👍🏻支持“机车基金”](https://github.com/wangyuhu/wangyuhu.github.io/blob/master/images/zhifubao.JPG)
+有钱买机车，没钱骑单车。[点击立即成为“机车基金”创始人之一](https://github.com/wangyuhu/wangyuhu.github.io/blob/master/images/zhifubao.JPG)
 
 ---
 
