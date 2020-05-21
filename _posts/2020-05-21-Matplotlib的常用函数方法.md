@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4」Pytorch中的函数
+title: 6」Matplotlib的常用函数方法
 ---
 
 *过犹不及，止于至善*
