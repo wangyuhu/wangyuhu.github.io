@@ -14,5 +14,8 @@ title: 6」Matplotlib的常用函数方法
 <span id="1"/>
 ## 模型搭建的几种方法
 
+![](/images/matplotlib.png)
+
+[这个老哥的总结很不错（狗头保命）](https://blog.csdn.net/ly18846826264/article/details/105894939)
 
 
