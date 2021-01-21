@@ -18,6 +18,8 @@ Institute of Automation, Chinese Academy of Sciences, BeiJing, China
 
 * Transportation
 
+* Spatial-Temporal Data Mining
+
 ---
 
 ### Education
