@@ -32,7 +32,7 @@ Institute of Automation, Chinese Academy of Sciences, BeiJing, China
 
 ### Publication
 
-* Comming soon...
+* TVGCN: Time-variant graph convolutional network for traffic forecasting, Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neurocomputing, Volume 471, 2022, Pages 118-129,
 
 ---
 
