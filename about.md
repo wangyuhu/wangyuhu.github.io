@@ -8,15 +8,15 @@ Yuhu Wang
 
 Ph.D. Candidate
 
-Institute of Automation, Chinese Academy of Sciences, BeiJing, China
+Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
-University of Chinese Academy of Sciences, BeiJing, China
+University of Chinese Academy of Sciences, Beijing, China
 
 ---
 
 ### Interests
 
-* GCN
+* GNN
 
 * Transportation
 
@@ -26,7 +26,7 @@ University of Chinese Academy of Sciences, BeiJing, China
 
 ### Education
 
-* PhD in NLPR, Fall 2019 - present, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences, BeiJing, China
+* PhD in NLPR, Fall 2019 - present, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences, Beijing, China
 
 * B.Eng in Automation, Fall 2015 - Fall 2019, XI'AN JiaoTong University, XIAN, China
 
