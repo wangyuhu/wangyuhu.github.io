@@ -34,7 +34,9 @@ University of Chinese Academy of Sciences, BeiJing, China
 
 ### Publication
 
-* TVGCN: Time-variant graph convolutional network for traffic forecasting, Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neurocomputing, Volume 471, 2022, Pages 118-129,
+* TVGCN: Time-variant graph convolutional network for traffic forecasting, Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neurocomputing, Volume 471, 2022, Pages 118-129.
+
+* Subgraph-Aware Graph Structure Revision for Spatial-Temporal Graph Modeling, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neural Networks, In Press.
 
 ---
 
