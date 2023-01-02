@@ -34,9 +34,11 @@ University of Chinese Academy of Sciences, Beijing, China
 
 ### Publication
 
-* Subgraph-Aware Graph Structure Revision for Spatial-Temporal Graph Modeling, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neural Networks, 2022.
+* Subgraph-Aware Graph Structure Revision for Spatial-Temporal Graph Modeling; Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; Neural Networks, 2022.
 
-* TVGCN: Time-variant graph convolutional network for traffic forecasting, Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan, Neurocomputing, 2022.
+* TVGCN: Time-variant graph convolutional network for traffic forecasting; Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; Neurocomputing, 2022.
+
+* Discriminative Graph Representation Learning with Distributed Sampling; Jinyong Wen, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; BIBM, 2022.
 
 ---
 
