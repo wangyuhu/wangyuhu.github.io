@@ -18,6 +18,8 @@ University of Chinese Academy of Sciences, Beijing, China
 
 * GNN
 
+* Homophilic and Heterophilic Graph Modeling
+
 * Transportation
 
 * Spatial-Temporal Data Mining
@@ -33,6 +35,8 @@ University of Chinese Academy of Sciences, Beijing, China
 ---
 
 ### Publication
+
+* Improving the Homophily of Heterophilic Graphs for Semi-Supervised Node Classification; Yuhu Wang, Shiming Xiang, Chunhong Pan; ICME, 2023.
 
 * Subgraph-Aware Graph Structure Revision for Spatial-Temporal Graph Modeling; Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; Neural Networks, 2022.
 
