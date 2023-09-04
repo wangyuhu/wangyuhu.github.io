@@ -24,6 +24,8 @@ University of Chinese Academy of Sciences, Beijing, China
 
 * Spatial-Temporal Data Mining
 
+* ML4CO
+
 ---
 
 ### Education
@@ -43,6 +45,10 @@ University of Chinese Academy of Sciences, Beijing, China
 * TVGCN: Time-variant graph convolutional network for traffic forecasting; Yuhu Wang, Shen Fang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; Neurocomputing, 2022.
 
 * Discriminative Graph Representation Learning with Distributed Sampling; Jinyong Wen, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; BIBM, 2022.
+
+* Graph Information Interaction on Feature and Structure via Cross-modal Contrastive Learning; Jinyong Wen, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; ICME, 2023.
+
+* Graph convolutional network with tree-guided anisotropic message passing; Ruixiang Wang, Yuhu Wang, Chunxia Zhang, Shiming Xiang, Chunhong Pan; Neural Networks, 2023.
 
 ---
 
