@@ -4,9 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Yuhu Wang
+Dr. Yuhu Wang
 
-Ph.D. Candidate
+Baidu. 
+
+---
+
+### Experiences
+
+* 2024.07 -- Present
+
+Baidu., Beijing, China
+
+* 2019.09 -- 2024.06
 
 Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
@@ -22,21 +32,23 @@ University of Chinese Academy of Sciences, Beijing, China
 
 * Transportation
 
-* Spatial-Temporal Data Mining
+* Multi-Modal Spatial-Temporal Data Mining
 
-* ML4CO
+* Computer Vison
 
 ---
 
 ### Education
 
-* PhD in NLPR, Fall 2019 - present, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences, Beijing, China
+* PhD in NLPR, Fall 2019 - Fall 2024, Institute of Automation, Chinese Academy of Sciences; University of Chinese Academy of Sciences, Beijing, China
 
 * B.Eng in Automation, Fall 2015 - Fall 2019, XI'AN JiaoTong University, XIAN, China
 
 ---
 
 ### Publication
+
+* Graph Aggregating-Repelling Network: Do Not Trust All Neighbors in Heterophilic Graphs; Yuhu Wang, Jinyong Wen, Chunxia Zhang, Shiming Xiang; Neural Networks, 2024.
 
 * Improving the Homophily of Heterophilic Graphs for Semi-Supervised Node Classification; Yuhu Wang, Shiming Xiang, Chunhong Pan; ICME, 2023.
 
@@ -54,5 +66,5 @@ University of Chinese Academy of Sciences, Beijing, China
 
 ### Contact me
 
-[wangyuhu2019@ia.ac.cn](mailto:wangyuhu2019@ia.ac.cn)
+[wangyuhu_casia@163.com](mailto:wangyuhu_casia@163.com)
 
