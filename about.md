@@ -14,13 +14,13 @@ Baidu., Beijing, China
 
 * 2024.07 -- Present
 
-Baidu., Beijing, China
+  Baidu., Beijing, China
 
 * 2019.09 -- 2024.06
 
-Institute of Automation, Chinese Academy of Sciences, Beijing, China
+  Institute of Automation, Chinese Academy of Sciences, Beijing, China
 
-University of Chinese Academy of Sciences, Beijing, China
+  University of Chinese Academy of Sciences, Beijing, China
 
 ---
 
