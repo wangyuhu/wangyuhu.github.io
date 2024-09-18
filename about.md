@@ -6,7 +6,7 @@ permalink: /about/
 
 Dr. Yuhu Wang
 
-Baidu. 
+Baidu., Beijing, China
 
 ---
 
